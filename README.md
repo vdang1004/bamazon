@@ -9,9 +9,11 @@ To run this application, MySQL database should already be installed on your mach
 To run the customer interface please follow the steps below:
 
 	run the sql file in MySQL
+	git clone git@github.com:vdang1004/bamazon.git
 	cd bamazon
 	npm install
 	node bamazonCustomer.js
 
 ### Demo Screenshots
-
+[1](https://github.com/vdang1004/bamazon/blob/master/00bamazon.png)
+[2](https://github.com/vdang1004/bamazon/blob/master/01bamazon.png)
